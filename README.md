@@ -31,9 +31,9 @@ https://www.notion.so/87bf2f0f4a2e4abdb46647c2c222a944
 
 # 效果
 
-![](./img/11.png)
+![](https://github.com/mext169/detect-and-recognize-mask-face/raw/master/img/11.png)
 
-![](./img/33.jpg)
+![](https://github.com/mext169/detect-and-recognize-mask-face/raw/master/img/33.jpg)
 
 # 交流
 
