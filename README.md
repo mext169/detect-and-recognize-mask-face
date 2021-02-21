@@ -24,7 +24,7 @@ MTCNN和mobilenet地址: https://github.com/bubbliiiing/mask-recognize
 
 # 使用
 
-下载预训练好的模型（自己训练的，切换到**release**下载）放到`models`文件夹下面
+下载预训练好的模型（参考上面的博客链接）放到`models`文件夹下面
 
 1. real_time.py 调用摄像头实时检测和识别
 2. local_img.py 识别传入的本地图片
