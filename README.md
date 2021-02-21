@@ -14,7 +14,7 @@ MTCNN和mobilenet地址: https://github.com/bubbliiiing/mask-recognize
 
 我太懒了，去这里看吧！
 
-https://www.notion.so/87bf2f0f4a2e4abdb46647c2c222a944
+可以参考我的csdn博客: [口罩人脸识别](https://blog.csdn.net/mengxt169/article/details/106744801/)
 
 # 环境
 
