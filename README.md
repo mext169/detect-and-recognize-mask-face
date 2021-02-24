@@ -31,9 +31,9 @@ MTCNN和mobilenet地址: https://github.com/bubbliiiing/mask-recognize
 
 # 效果
 
-![](https://github.com/mext169/detect-and-recognize-mask-face/raw/master/img/11.png)
+![](./img/11.png)
 
-![](https://github.com/mext169/detect-and-recognize-mask-face/raw/master/img/33.jpg)
+![](./img/33.jpg)
 
 # 交流
 
