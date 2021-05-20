@@ -38,5 +38,5 @@ MTCNN和mobilenet地址: https://github.com/bubbliiiing/mask-recognize
 # 交流
 
 **希望大家能多issue，这样有的问题我就不用回答两遍了，希望大家理解**
-使用有问题，欢迎交流`1922077535@qq.com`
 
+邮箱`1922077535@qq.com`
